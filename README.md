@@ -5,7 +5,8 @@ If you’re into ciphers, UI design, or challenge modes, I’d love your feedbac
 DM me or drop a 🔒 if you want early access.
 
 Email for queries and business opportunities: Ashazali147@gmail.com 
-Name = Ashaz Ali Sulaiman
+
+Name: Ashaz Ali Sulaiman
 ____________________________________________________________________________________________________________________________________________________
 Built for thinkers. Secured by design.
 
