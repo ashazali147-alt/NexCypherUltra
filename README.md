@@ -1,4 +1,4 @@
-# NexCypherUltra
+# NCU NexCypherUltra
 I’ve been building something called NexCypher Ultra™—a modular encryption system designed for secure logic, stealth vaults, and symbolic control.
 It’s still in development, but I’ve got a demo version ready for testing.
 If you’re into ciphers, UI design, or challenge modes, I’d love your feedback.
