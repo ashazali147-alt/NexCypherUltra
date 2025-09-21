@@ -14,7 +14,8 @@ Owner : Ashaz Ali Sulaiman
 
 
 ____________________________________________________________________________________________________________________________________________________
-Built for thinkers. Secured by design. <img width="368" height="427" alt="image" src="https://github.com/user-attachments/assets/9abb17f0-7520-4dcc-9a40-26cff14c2e50" />
+Built for thinkers. Secured by design. <img width="368" height="427" alt="image" src="https://github.com/user-attachments/assets/6ad5b442-6295-4d97-a3b3-5dbaeeb47a52" />
+
 
 
 
