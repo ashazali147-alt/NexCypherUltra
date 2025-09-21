@@ -6,9 +6,13 @@ DM me or drop a 🔒 if you want early access.
 
 Email for queries and business opportunities: Ashazali147@gmail.com 
 
-Name: Ashaz Ali Sulaiman
+Made by : Vaultline
 
 Link= https://ashazali147-alt.github.io/NexCypherUltra/
+
+Owner : Ashaz Ali Sulaiman
+
+
 ____________________________________________________________________________________________________________________________________________________
 Built for thinkers. Secured by design. <img width="279" height="295" alt="image" src="https://github.com/user-attachments/assets/41268398-7f0f-454e-a542-5072ec1fc8be" />
 
