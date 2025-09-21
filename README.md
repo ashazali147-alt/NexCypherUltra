@@ -10,6 +10,7 @@ Name: Ashaz Ali Sulaiman
 
 Link= https://ashazali147-alt.github.io/NexCypherUltra/
 ____________________________________________________________________________________________________________________________________________________
-Built for thinkers. Secured by design.
+Built for thinkers. Secured by design. <img width="279" height="295" alt="image" src="https://github.com/user-attachments/assets/41268398-7f0f-454e-a542-5072ec1fc8be" />
+
 
 
