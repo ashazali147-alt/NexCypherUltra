@@ -1,8 +1,8 @@
 # NCU NexCypherUltra
-I’ve been building something called NexCypher Ultra™—a modular encryption system designed for secure logic, stealth vaults, and symbolic control.
-It’s still in development, but I’ve got a demo version ready for testing.
-If you’re into ciphers, UI design, or challenge modes, I’d love your feedback.
-DM me or drop a 🔒 if you want early access.
+We’ve been building something called NexCypher Ultra™—a modular encryption system designed for secure logic, stealth vaults, and symbolic control.
+It’s still in development, but We’ve got a version ready for testing.
+If you’re into ciphers, UI design, or challenge modes, We’d love your feedback.
+drop a message in the  or drop a 🔒 if you want early access.
 
 Email for queries and business opportunities: Ashazali147@gmail.com 
 
@@ -14,7 +14,8 @@ Owner : Ashaz Ali Sulaiman
 
 
 ____________________________________________________________________________________________________________________________________________________
-Built for thinkers. Secured by design. <img width="279" height="295" alt="image" src="https://github.com/user-attachments/assets/41268398-7f0f-454e-a542-5072ec1fc8be" />
+Built for thinkers. Secured by design. <img width="368" height="427" alt="image" src="https://github.com/user-attachments/assets/9abb17f0-7520-4dcc-9a40-26cff14c2e50" />
+
 
 
 
